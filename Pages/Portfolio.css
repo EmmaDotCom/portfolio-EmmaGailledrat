@@ -1,0 +1,212 @@
+body {
+    background-color: black;
+    color: white;
+    margin: 0px
+}
+
+.background-saison {
+    background-color: #333;
+}
+
+.button {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.portfolio {
+    font-family: "Bebas Neue", sans-serif;
+    font-style: normal;
+    font-size: 40px;
+    font-weight: 100px;
+    color: #e50914;
+    height: 75px;
+    display: flex;
+    align-items: center;
+}
+
+.color_background {
+    display: flex;
+    background-color: #333;
+    margin: 0px;
+}
+
+.portfolio,
+.partie {
+    padding-left: 40px
+}
+
+.button1 {
+    padding: 15px 30px;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 17px;
+}
+
+.button1:hover {
+    background-color: rgba(255, 255, 255, 0.945);
+    text-decoration: none
+}
+
+.button2 {
+    padding: 15px 30px;
+    background-color: #cecfcf;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 17px;
+}
+
+.button2:hover {
+    background-color: rgb(172, 169, 169);
+    color: black;
+    text-decoration: none
+}
+
+a {
+    text-decoration: none;
+    color: white
+}
+
+.Accueil {
+    background-color: #333;
+    padding: 10px;
+    text-align: justify;
+}
+
+.Futurolan {
+    font-weight: bold
+}
+
+.section {
+    text-align: justify;
+}
+
+.partie {
+    display: flex;
+    gap: 2.5em;
+    background-color: #333;
+    height: 40px;
+    align-items: center;
+    margin: 0;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.associative_participation {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.introduction {
+    max-width: 30%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 50px;
+}
+
+.university {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 60px;
+    text-align: justify;
+    background-color: #333;
+    margin-top: 20px;
+}
+
+.raleway {
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 25px;
+    font-style: normal;
+}
+
+p,
+a {
+    font-family: "Raleway";
+    font-size: 17px;
+}
+
+td,
+tr,
+th {
+    border: 1px, solid white;
+    padding: 10px;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 20px
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    width: 50%;
+}
+
+input {
+    padding: 10px;
+    border: 1px solid white;
+}
+
+footer {
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 40px;
+    font-size: 14px;
+    color: white;
+}
+
+.saison {
+    background-color: #333;
+}
+
+.menu-saison {
+    margin: 50px auto;
+    padding: 20px;
+    max-width: 900px;
+}
+
+.Recommandation {
+    margin-left: 31em;
+}
+
+.lecture-btn {
+    padding: 15px 30px;
+    border-radius: 5px;
+    font-size: 17px;
+    text-decoration: none;
+    background-color: white;
+    color: black;
+}
+
+.episode-content {
+    display: flex;
+    gap: 2.5em;
+    align-items: center;
+}
+
+.episode-title {
+    margin-left: 2.75em;
+    margin-bottom: 0.5em;
+
+}
+
+.episode-number {
+    font-size: 30px;
+    margin-right: 10px;
+}
+
+.green {
+    color: rgb(56, 182, 56);
+    font-weight: bold
+}
+
+.episode-size {
+    font-size: 1.75em;
+}
