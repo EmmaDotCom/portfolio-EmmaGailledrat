@@ -94,11 +94,6 @@ a {
     box-sizing: border-box;
 }
 
-.associative_participation {
-    margin-left: 200px;
-    margin-right: 200px;
-}
-
 .introduction {
     max-width: 30%;
     display: flex;
@@ -172,6 +167,12 @@ footer {
     max-width: 900px;
 }
 
+.mise-en-page {
+    margin: 17px auto;
+    padding: 20px;
+    max-width: 1200px;
+}
+
 .Recommandation {
     margin-left: 31em;
 }
@@ -209,4 +210,8 @@ footer {
 
 .episode-size {
     font-size: 1.75em;
+}
+
+.position-image {
+    text-align: center;
 }
