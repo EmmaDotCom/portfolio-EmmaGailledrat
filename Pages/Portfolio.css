@@ -219,3 +219,11 @@ footer {
 .ul {
     font-family: "Bebas Neue", sans-serif;
 }
+
+.position-image-charte img {
+    margin-right: 30em;
+    height: auto;
+    width: 30em;
+    justify-content: center;
+    margin: 20px 0;
+}
